@@ -1,5 +1,6 @@
-# SOC L1 PS Eclipse
-## SOC Ransomware Investigation with Splunk
+# SOC PS Eclipse
+
+## SOC Ransomware Inident Investigation with Splunk
 
 ### Introduction
 

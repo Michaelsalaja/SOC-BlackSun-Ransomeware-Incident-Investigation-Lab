@@ -11,7 +11,7 @@ During a routine shift as a SOC Analyst for an MSSP (Managed Security Service Pr
 
 ### Task 1
 
-* I entered the following Query to search for the name of a suspicious binary was downloaded to the endpoint
+* I entered the following Query to search for the name of a suspicious binary that was downloaded to the endpoint
 
 <mark>➤ *.exe | dedup Image | table Image</mark>
 
